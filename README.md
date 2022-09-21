@@ -1,6 +1,9 @@
 # YZLFusion
 
+## News
 
+* (2022.9.4) rank 1st and 1st in the term of NDS and mAP on the nuScenes leaderboard among all methods that don't use TTA and Ensemble.
+* (2022.9.21) rank 1st and 2nd in the term of NDS and mAP on the nuScenes learderboard among all methods that use single model and TTA.
 
 ## Nuscene Single Model Performance
 
