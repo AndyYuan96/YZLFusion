@@ -1,6 +1,6 @@
 # YZLFusion
 
-## Methods
+## Method
 
 plain centerpoint-voxel(without better backbone like focalsparse conv,without better neck like SA-FPN,without better head like transfusionhead) + swin-tiny + fusion strategy.
 
